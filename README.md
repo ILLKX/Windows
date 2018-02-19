@@ -25,5 +25,5 @@ CRC32   ：B8F854DF
 MD5     ：C4C14D5812FB296389CF1311E820DA94  
 SHA1    ：E133D7258C3273781D2CC6A0857BD70917561C64  
 CRC32   ：4BFA188C  
-备注：Windows Server 2008 R2 SP1个人版镜像(带VirtIO驱动)  
+备注：Windows Server 2008 R2 SP1 Standard镜像(带VirtIO驱动)  
 下载地址：https://drive.google.com/file/d/1R015hs6o7iYMoGAElI9HpHgjYgxzcHpb/view?usp=sharing
