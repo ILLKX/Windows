@@ -27,3 +27,12 @@ SHA1    ：E133D7258C3273781D2CC6A0857BD70917561C64
 CRC32   ：4BFA188C  
 备注：Windows Server 2008 R2 SP1 Standard镜像(带VirtIO驱动)  
 下载地址：https://drive.google.com/file/d/1R015hs6o7iYMoGAElI9HpHgjYgxzcHpb/view?usp=sharing
+
+文件名称：win.vhd  
+文件大小：8589935104 字节  
+修改时间：2018年2月20日 14:13:52  
+MD5     ：ED59655A1ADC6E4CD988D6AD53AA69FE  
+SHA1    ：0B4BFDAE69EB61BCE87E3094C8A8C3A9F5755E5C  
+CRC32   ：AFCC6360  
+备注：Windows Server 2008 R2 SP1 Standard原版DD包(带VirtIO驱动)  
+下载地址：https://drive.google.com/file/d/1XBR46S_bHxm6IammTmRQdfQfs0OF8u4Q/view?usp=sharing
