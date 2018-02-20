@@ -34,5 +34,14 @@ CRC32   ：4BFA188C
 MD5     ：ED59655A1ADC6E4CD988D6AD53AA69FE  
 SHA1    ：0B4BFDAE69EB61BCE87E3094C8A8C3A9F5755E5C  
 CRC32   ：AFCC6360  
-备注：Windows Server 2008 R2 SP1 Standard原版DD包(带VirtIO驱动)  
+备注：Windows Server 2008 R2 SP1 Standard原版DD包(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
 下载地址：https://drive.google.com/file/d/1XBR46S_bHxm6IammTmRQdfQfs0OF8u4Q/view?usp=sharing
+
+文件名称：win.gz  
+文件大小：2871939168 字节  
+修改时间：2018年2月21日 00:04:52  
+MD5     ：2BDD7B624F09F7C20CFF824732CFD9C3  
+SHA1    ：27DC635D238C6B4438332347F75C5E32706A3B9C  
+CRC32   ：D2DB2088  
+备注：Windows Server 2008 R2 SP1 Standard原版DD包(带VirtIO驱动)压缩包，仅安装驱动与压缩，未对系统进行任何修改。
+下载地址：https://drive.google.com/file/d/1DodpmApKpx1NWkNBlC6k-tBbb2UVxZXJ/view?usp=sharing
