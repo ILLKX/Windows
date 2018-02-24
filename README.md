@@ -1,8 +1,10 @@
 # Windows  
-本仓库仅发布Windows原版镜像，DD包与Windows原版镜像(带VirtIO)请留意本人其它仓库，稍后将把链接附上
+本仓库仅发布Windows原版镜像，DD包与Windows原版镜像(带VirtIO)请参考以下链接：  
+DD包：https://github.com/ILLKX/Windows-DD  
+Windows原版镜像(带VirtIO)：https://github.com/ILLKX/Windows-VirtIO  
 
 <strong>本仓库所有内容仅供参考，请勿传播</strong>  
-  
+
 文件名称：zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso  
 文件大小：630237184 字节  
 修改时间：2018年2月16日 18:06:57  
@@ -11,7 +13,7 @@ SHA1    ：D142469D0C3953D8E4A6A490A58052EF52837F0F
 CRC32   ：FFFFFFFF  
 备注：Windows XP Professional with SP3 32位 VL原版镜像  
 下载地址：https://drive.google.com/file/d/1tRUGZVcdstWH1YIwxV39NZhyrBPKKzxf/view?usp=sharing  
-  
+
 文件名称：cn_windows_server_2008_r2_standard_enterprise_datacenter_and_web_with_sp1_vl_build_x64_dvd_617396.iso  
 文件大小：3368962048 字节  
 修改时间：2018年2月16日 18:59:21  
