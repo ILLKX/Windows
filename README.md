@@ -25,7 +25,7 @@ CRC32   ：B8F854DF
 MD5     ：C4C14D5812FB296389CF1311E820DA94  
 SHA1    ：E133D7258C3273781D2CC6A0857BD70917561C64  
 CRC32   ：4BFA188C  
-备注：Windows Server 2008 R2 with SP1 Standard 64位 VL原版镜像(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
+备注：Windows Server 2008 R2 Standard with SP1 64位 VL原版镜像(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
 下载地址：https://drive.google.com/file/d/1R015hs6o7iYMoGAElI9HpHgjYgxzcHpb/view?usp=sharing
 
 文件名称：win.vhd  
@@ -34,7 +34,7 @@ CRC32   ：4BFA188C
 MD5     ：ED59655A1ADC6E4CD988D6AD53AA69FE  
 SHA1    ：0B4BFDAE69EB61BCE87E3094C8A8C3A9F5755E5C  
 CRC32   ：AFCC6360  
-备注：Windows Server 2008 R2 with SP1 Standard 64位 VL原版DD包(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
+备注：Windows Server 2008 R2 Standard with SP1 64位 VL原版DD包(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
 下载地址：https://drive.google.com/file/d/1XBR46S_bHxm6IammTmRQdfQfs0OF8u4Q/view?usp=sharing
 
 文件名称：win.gz  
@@ -63,3 +63,12 @@ SHA1    ：647B26479A3A46C078F5B1364A89003A31F4AADA
 CRC32   ：2FCDFA32  
 备注：Windows 7 Professional with SP1 64位 VL原版镜像  
 下载地址：https://drive.google.com/file/d/1fyUuUDyqSheNgW8eQAkxzydIfZEzrsCF/view?usp=sharing
+
+文件名称：cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso  
+文件大小：3420557312 字节  
+修改时间：2018年2月24日 12:09:01  
+MD5     ：480B62C3ACD6C8A36B18D9E906CD90D2  
+SHA1    ：2CE0B2DB34D76ED3F697CE148CB7594432405E23  
+CRC32   ：69F54CA4  
+备注：Windows 7 Ultimate with SP1 64位 原版镜像  
+下载地址：https://drive.google.com/file/d/1gMoTQX5eZiSCXFO6dXYDZNY7wcB9e38S/view?usp=sharing
