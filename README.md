@@ -81,3 +81,12 @@ SHA1    ：15F67116E6616A70B89EE0079B34E64635FBD8A0
 CRC32   ：6F0305A0  
 备注：Windows 8.1 <strong>Pro</strong> with update 64位 VL原版镜像  
 下载地址：https://drive.google.com/file/d/1XVIn1Sx6Kmi5fppG7oaV3wsChK6pYvx9/view?usp=sharing
+
+文件名称：cn_windows_8_pro_vl_x64_dvd_917773.iso  
+文件大小：3558014976 字节  
+修改时间：2018年2月24日 14:09:23  
+MD5     ：0C28901E7F8C670584CBF9F3E3B0F13E  
+SHA1    ：9C4EC9FC4FB561F841E22256BC9DEA6D9D6611FF  
+CRC32   ：5AE3D855  
+备注：Windows 8 Pro 64位 VL原版镜像  
+下载地址：https://drive.google.com/file/d/1dPMB9krNfxQ9g2kH980CsUuXpArMdSdH/view?usp=sharing
