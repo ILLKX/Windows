@@ -7,7 +7,7 @@
 MD5     ：E74D72F3D90456003E9E02BA0FB7DA61  
 SHA1    ：D142469D0C3953D8E4A6A490A58052EF52837F0F  
 CRC32   ：FFFFFFFF  
-备注：Windows XP with SP3 32位 VL原版镜像  
+备注：Windows XP Professional with SP3 32位 VL原版镜像  
 下载地址：https://drive.google.com/file/d/1tRUGZVcdstWH1YIwxV39NZhyrBPKKzxf/view?usp=sharing  
   
 文件名称：cn_windows_server_2008_r2_standard_enterprise_datacenter_and_web_with_sp1_vl_build_x64_dvd_617396.iso  
@@ -25,7 +25,7 @@ CRC32   ：B8F854DF
 MD5     ：C4C14D5812FB296389CF1311E820DA94  
 SHA1    ：E133D7258C3273781D2CC6A0857BD70917561C64  
 CRC32   ：4BFA188C  
-备注：Windows Server 2008 R2 with SP1 Standard 64位 VL原版镜像(带VirtIO驱动)  
+备注：Windows Server 2008 R2 with SP1 Standard 64位 VL原版镜像(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
 下载地址：https://drive.google.com/file/d/1R015hs6o7iYMoGAElI9HpHgjYgxzcHpb/view?usp=sharing
 
 文件名称：win.vhd  
@@ -52,5 +52,14 @@ CRC32   ：D2DB2088
 MD5     ：122E265F9A703F10542890082CFCA924  
 SHA1    ：69DC07E7B7940121027BE4C9B51648FA31D2B6AD  
 CRC32   ：6FDAB07C  
-备注：Windows 10 Version 1709(update Dec, 2017) 64位 VL多版本原版镜像  
+备注：Windows 10 Version 1709 (Updated Dec 2017) 64位 VL多版本原版镜像  
 下载地址：https://drive.google.com/file/d/1UuLNmkfsdSk10E2k_Rw2DxZVHWsEoHDL/view?usp=sharing
+
+文件名称：cn_windows_7_professional_with_sp1_vl_build_x64_dvd_u_677816.iso  
+文件大小：3266004992 字节  
+修改时间：2018年2月24日 11:21:03  
+MD5     ：E9DB6EA926549CE109E9DDBDA9D415A3  
+SHA1    ：647B26479A3A46C078F5B1364A89003A31F4AADA  
+CRC32   ：2FCDFA32  
+备注：Windows 7 Professional with SP1 64位 VL原版镜像  
+下载地址：https://drive.google.com/file/d/1fyUuUDyqSheNgW8eQAkxzydIfZEzrsCF/view?usp=sharing
