@@ -90,3 +90,12 @@ SHA1    ：9C4EC9FC4FB561F841E22256BC9DEA6D9D6611FF
 CRC32   ：5AE3D855  
 备注：Windows 8 Pro 64位 VL原版镜像  
 下载地址：https://drive.google.com/file/d/1dPMB9krNfxQ9g2kH980CsUuXpArMdSdH/view?usp=sharing
+
+文件名称：cn_windows_server_2012_r2_vl_with_update_x64_dvd_6052729.iso
+文件大小：5545527296 字节
+修改时间：2018年2月24日 15:43:47
+MD5     ：A69276D600D9621D3B0AB465E5700B6E
+SHA1    ：5E88BF62773D4867CF904AF94F66EEA2062E35E4
+CRC32   ：37F512D6
+备注：Windows Server 2012 R2 with update 64位 VL原版镜像
+下载地址：https://drive.google.com/file/d/1rva9jLd6OLoYWeB2TMmLuh9Ek-RKaPCw/view?usp=sharing
