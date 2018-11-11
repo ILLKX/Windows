@@ -85,3 +85,12 @@ SHA1    ：6AE9CE84C9A97CFA55372B2892903A214062D5E5
 CRC32   ：030AE32F  
 备注：Windows Server 2016 64位 原版镜像  
 下载地址：https://drive.google.com/file/d/1vVMbBkR15aYiCezYEYvh6CBzPYVBrv12/view?usp=sharing
+
+文件名称：cn_windows_server_2019_x64_dvd_2d80e042.iso  
+文件大小：4799084544 字节  
+修改时间：2018年11月11日 17:31:04  
+MD5     ：166CDB9C6200F36DE1BE88871488F7D0  
+SHA1    ：CFBC1F9BFA00A08E601548A056C67AB732CF32F7  
+CRC32   ：ADF7A884  
+备注：Windows Server 2019 64位 原版镜像  
+下载地址：https://drive.google.com/file/d/1qF1UN_hTDrwePJjyh8VH1lSPEUzRrECW/view?usp=sharing
