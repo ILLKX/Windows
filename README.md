@@ -48,7 +48,7 @@ MD5     ：480B62C3ACD6C8A36B18D9E906CD90D2
 SHA1    ：2CE0B2DB34D76ED3F697CE148CB7594432405E23  
 CRC32   ：69F54CA4  
 备注：Windows 7 Ultimate with SP1 64位 原版镜像  
-下载地址：https://drive.google.com/file/d/1gMoTQX5eZiSCXFO6dXYDZNY7wcB9e38S/view?usp=sharing
+下载地址：https://drive.google.com/file/d/1QfKFLlckOnSElOm3Io0R091A7kxXBVXM/view?usp=sharing
 
 文件名称：cn_windows_8.1_pro_vl_with_update_x64_dvd_6050873.iso  
 文件大小：4317507584 字节  
