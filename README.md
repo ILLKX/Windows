@@ -23,14 +23,23 @@ CRC32   ：B8F854DF
 备注：Windows Server 2008 R2 with SP1 64位 VL多版本原版镜像  
 下载地址：https://drive.google.com/file/d/1MEmTsvTqWIrNzZtxls8-L_CK5f4j8i-x/view?usp=sharing
 
-文件名称：cn_windows_10_multi-edition_vl_version_1709_updated_dec_2017_x64_dvd_100406208.iso  
-文件大小：5007116288 字节  
-修改时间：2018年2月24日 10:46:07  
-MD5     ：122E265F9A703F10542890082CFCA924  
-SHA1    ：69DC07E7B7940121027BE4C9B51648FA31D2B6AD  
-CRC32   ：6FDAB07C  
-备注：Windows 10 Version 1709 (Updated Dec 2017) 64位 VL多版本原版镜像  
-下载地址：https://drive.google.com/file/d/1UuLNmkfsdSk10E2k_Rw2DxZVHWsEoHDL/view?usp=sharing
+文件名称：cn_windows_10_consumer_editions_version_1909_updated_jan_2020_x64_dvd_47161f17.iso  
+文件大小：5417457664 字节  
+修改时间：2020年3月1日 01:49:38  
+MD5     ：B782460A99C2EAA8BB63130941576E00  
+SHA1    ：7C498C81D9BA75DB92957562631B84DEC4829F97  
+CRC32   ：D0C0A59F  
+备注：Windows 10 Version 1909 (Updated Jan 2020) 64位 多版本原版镜像  
+下载地址：https://drive.google.com/file/d/1ypwPKkMYOzs3eypbIZHOyBnWoWB02XFz/view?usp=sharing
+
+文件名称：cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso  
+文件大小：4478906368 字节  
+修改时间：2020年3月1日 01:48:07  
+MD5     ：0D98F58465929EE524CE3AEC0832A58B  
+SHA1    ：24B59706D5EDED392423936C82BA5A83596B50CC  
+CRC32   ：0C3357E3  
+备注：Windows 10 Enterprise LTSC 2019 64位 多版本原版镜像 (2019.3)  
+下载地址：https://drive.google.com/file/d/1T9tlbfYYWasGa8uI-s53y5hFLc9CUHLg/view?usp=sharing
 
 文件名称：cn_windows_7_professional_with_sp1_vl_build_x64_dvd_u_677816.iso  
 文件大小：3266004992 字节  
