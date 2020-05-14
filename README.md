@@ -29,8 +29,17 @@ CRC32   ：B8F854DF
 MD5     ：B782460A99C2EAA8BB63130941576E00  
 SHA1    ：7C498C81D9BA75DB92957562631B84DEC4829F97  
 CRC32   ：D0C0A59F  
-备注：Windows 10 Version 1909 (Updated Jan 2020) 64位 多版本原版镜像  
+备注：Windows 10 Consumer Editions Version 1909 (Updated Jan 2020) 64位 多版本原版镜像  
 下载地址：https://drive.google.com/file/d/1ypwPKkMYOzs3eypbIZHOyBnWoWB02XFz/view?usp=sharing
+
+文件名称：cn_windows_10_business_editions_version_1909_updated_jan_2020_x64_dvd_b3e1f3a6.iso  
+文件大小：5311711232 字节  
+修改时间：2020年5月13日 17:07:33  
+MD5     ：3268BE26F0CC278B0AE6709EF77D1AFC  
+SHA1    ：67F9C7D6EC42CB1257697516F134799E020DE8E3  
+CRC32   ：50D663C9  
+备注：Windows 10 Business Editions Version 1909 (Updated Jan 2020) 64位 多版本原版镜像  
+下载地址：https://drive.google.com/file/d/1I4GLtG4XqiFMFa2B5pJqNfJzA7cVsq9Z/view?usp=sharing
 
 文件名称：cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso  
 文件大小：4478906368 字节  
@@ -86,20 +95,20 @@ CRC32   ：37F512D6
 备注：Windows Server 2012 R2 with update 64位 VL原版镜像  
 下载地址：https://drive.google.com/file/d/1rva9jLd6OLoYWeB2TMmLuh9Ek-RKaPCw/view?usp=sharing
 
-文件名称：cn_windows_server_2016_x64_dvd_9718765.iso  
-文件大小：6176450560 字节  
-修改时间：2018年2月24日 17:53:46  
-MD5     ：4F1E348B1333A19169F16145635C36C1  
-SHA1    ：6AE9CE84C9A97CFA55372B2892903A214062D5E5  
-CRC32   ：030AE32F  
-备注：Windows Server 2016 64位 原版镜像  
-下载地址：https://drive.google.com/file/d/1vVMbBkR15aYiCezYEYvh6CBzPYVBrv12/view?usp=sharing
+文件名称：cn_windows_server_2016_updated_feb_2018_x64_dvd_11636703.iso  
+文件大小：6294265856 字节  
+修改时间：2020年5月12日 14:27:24  
+MD5     ：41AEAB0015CCDBA18AC3ABFF5B768C64  
+SHA1    ：8D1C867B19C4EAE7DD79EB544FDD5DBFBD9812FE  
+CRC32   ：1F6DEBF6  
+备注：Windows Server 2016 (Updated Feb 2018) 64位 原版镜像  
+下载地址：https://drive.google.com/file/d/1f_nJLPRD_qk9Y4pbswF6C1eYTcyl4a55/view?usp=sharing
 
-文件名称：cn_windows_server_2019_x64_dvd_2d80e042.iso  
-文件大小：4799084544 字节  
-修改时间：2018年11月11日 17:31:04  
-MD5     ：166CDB9C6200F36DE1BE88871488F7D0  
-SHA1    ：CFBC1F9BFA00A08E601548A056C67AB732CF32F7  
-CRC32   ：ADF7A884  
-备注：Windows Server 2019 64位 原版镜像  
-下载地址：https://drive.google.com/file/d/1qF1UN_hTDrwePJjyh8VH1lSPEUzRrECW/view?usp=sharing
+文件名称：cn_windows_server_2019_updated_jan_2020_x64_dvd_4bbe2c37.iso  
+文件大小：5608552448 字节  
+修改时间：2020年5月12日 13:40:56  
+MD5     ：286220963E5FB9AB6FDC3FD4B0E25545  
+SHA1    ：C27D4F4721433D249CA592C13BD265E864629934  
+CRC32   ：BB5C679C  
+备注：Windows Server 2019 (Updated Jan 2020) 64位 原版镜像  
+下载地址：https://drive.google.com/file/d/1xdFR7I6mI9bIfTiVrk0WZW40AI2aRUdS/view?usp=sharing
