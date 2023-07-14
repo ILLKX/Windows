@@ -1,129 +1,398 @@
 # Windows  
-本仓库仅发布Windows原版镜像，DD包与Windows原版镜像(带VirtIO)请参考以下链接：  
-DD包：https://github.com/ILLKX/Windows-DD  
-Windows原版镜像(带VirtIO)：https://github.com/ILLKX/Windows-VirtIO  
-
-<strong>本仓库所有内容仅供参考，请勿传播</strong>  
-
-文件名称：zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso  
+本仓库仅发布Windows原版镜像
+DD包与Windows原版镜像
+(带VirtIO)请参考以下链接
+：  DD包
+：<https://github.com>
+/ILLKX/Windows
+DD  
+Windows
+原版镜像
+(带VirtIO)
+ ：
+ <https://github.com>
+ / 
+ ILLKX/Windows
+ ;
+ (VirtIO)  
+<strong>
+本仓库所有内容仅供参考请勿传播</strong>文件名称：zhhans_
+windows_
+xp_professional 
+_
+with 
+_
+service_pack
+_
+3
+_
+x86
+_cd_vl_
+x14-74070.iso  
 文件大小：630237184 字节  
-MD5     ：E74D72F3D90456003E9E02BA0FB7DA61  
-SHA1    ：D142469D0C3953D8E4A6A490A58052EF52837F0F  
-CRC32   ：FFFFFFFF  
-备注：Windows XP Professional with SP3 32位 VL原版镜像  
-下载地址：https://download.testip.xyz/Windows/zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso  
+MD5      
+：E74D72F3D90456003E9E02BA0FB7DA61  
+SHA1   
+：D142469D0C3953D8E4A6A490A58052EF52837F0F  
+CRC32   
+：FFFFFFFF  
+备注：Windows 
+XP Professional
+with SP3 32位
+VL原版镜像  
+下载地址
+<https://download.testip.xyz/Windows>
+ /
+zhhans_windows_xp_professional_
+with_service_pack_3_x86_cd_vl_x14
+74070.iso  
+文件名 
+：cn_windows_7_professional
+with_sp1_vl_build_x64_dvd_u
+677816.iso  
+文件大小
+：
 
-文件名称：cn_windows_7_professional_with_sp1_vl_build_x64_dvd_u_677816.iso  
-文件大小：3266004992 字节   
-MD5     ：E9DB6EA926549CE109E9DDBDA9D415A3  
-SHA1    ：647B26479A3A46C078F5B1364A89003A31F4AADA  
-CRC32   ：2FCDFA32  
-备注：Windows 7 Professional with SP1 64位 VL原版镜像  
-下载地址：https://download.testip.xyz/Windows/cn_windows_7_professional_with_sp1_vl_build_x64_dvd_u_677816.iso  
+3266004992 
+字节   
+MD5     
+：E9DB6EA926549CE109E9DDBDA9D415A3  
+SHA1  
+：647B26479A3A46C078F5B1364A89003A31F4AADA  
+CRC32   
+：
+2FCDFA32  
+备注
+：Windows 
+7 Professional
+with SP1 x64
+位k
+VL原版镜像  
+下载地址
+：<https://download.testip.xyz/Windows>
+/
+cn_windows_7_professional_
+with_sp1_vl_build_x64_dvd
+_u_
 
-文件名称：cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso  
-文件大小：3420557312 字节  
-MD5     ：480B62C3ACD6C8A36B18D9E906CD90D2  
-SHA1    ：2CE0B2DB34D76ED3F697CE148CB7594432405E23  
-CRC32   ：69F54CA4  
-备注：Windows 7 Ultimate with SP1 64位 原版镜像  
-下载地址：https://download.testip.xyz/Windows/cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso  
+677816.iso  
+文件名称：cn_windows_7_ultimate_
+with
+_sp1.
+_x64.
+dvd_u_
+677408.iso  
+文件大小
+：3420557312 字节  
+MD5     
+：480B62C3ACD6C8A36B18D9E906CD90D2  
+SHA1    
+：2CE0B2DB34D76ED3F697CE148CB7594432405E23  
+CRC32  
+：69F54CA4  
+备注：Windows 7 Ultimate 
+with SP1 64
+位 原版镜像  
+下载地址
+<https://download.testip.xyz/Windows>
+/
+cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso  
 
-文件名称：cn_windows_8_pro_vl_x64_dvd_917773.iso  
-文件大小：3558014976 字节  
-MD5     ：0C28901E7F8C670584CBF9F3E3B0F13E  
-SHA1    ：9C4EC9FC4FB561F841E22256BC9DEA6D9D6611FF  
-CRC32   ：5AE3D855  
-备注：Windows 8 Pro 64位 VL原版镜像  
-下载地址：https://download.testip.xyz/Windows/cn_windows_8_pro_vl_x64_dvd_917773.iso  
+文件名称
+：cn_windows_8_pro
+_vl
+_x64
+_dvd_
+917773.iso  
+文件大小
+：3558014976
+字节  
+MD5   
+：0C28901E7F8C670584CBF9F3E3B0F13E  
+SHA1  
+：9C4EC9FC4FB561F841E22256BC9DEA6D9D6611FF  
+CRC32 
+：5AE3D855  
+备注：
+Windows 8 Pro 
+64
+位 VL
+原版镜像  
+下载地址
+：<https://download.testip.xyz/Windows>
+/
+cn_windows_8_pro_vl 
+_
+x64_dvd_917773.iso  
+文件名称：cn_windows_8.1_pro_
+vl_with_update_x64_dvd_
+6050873.iso  
+文件大小
+：4317507584 字节  
+MD5    
+：815CB845F68596D8361B26013C3BA728  
+SHA1   
+：15F67116E6616A70B89EE0079B34E64635FBD8A0  
+CRC32  
+：6F0305A0  
+备注：Windows 8.1  <strong>Pro</strong> 
+with update 64
+位 VL原
+版镜像  
+下载地址
+：<https://download.testip.xyz/Windows>
+/
+cn_windows_8.1_pro_vl_with
+_update_x64_dvd
+_6050873.iso  
+文件名称
+zhcn_windows_10_consumer_editions_
+version_22h2_updated_
+nov_2022_x64_dvd
+_8bb31339.iso  
+文件大小
+：6085199872  
+字节  
+MD5 
+：FB07203178B1183C28E69A1B25D8CD89  
+SHA1 
+：8B4AE423C87EEB7E501AB0D55822228EE95C13B2  
 
-文件名称：cn_windows_8.1_pro_vl_with_update_x64_dvd_6050873.iso  
-文件大小：4317507584 字节  
-MD5     ：815CB845F68596D8361B26013C3BA728  
-SHA1    ：15F67116E6616A70B89EE0079B34E64635FBD8A0  
-CRC32   ：6F0305A0  
-备注：Windows 8.1 <strong>Pro</strong> with update 64位 VL原版镜像  
-下载地址：https://download.testip.xyz/Windows/cn_windows_8.1_pro_vl_with_update_x64_dvd_6050873.iso  
+CRC32 
+：
+EF5A7FC6  
+备注：Windows 10 Consumer Editions Version 22h2  
+(
+Update
+Nov
+2022
+)
+64
+位 
+多版本原版镜像  
+下载地址. 
+：<https://download.testip.xyz/Windows/>
+zhcn_windows_10_consumer_editions_
+version_22h2_updated_
+nov_2022_x64_dvd
+_8bb31339.iso  
+文件名称
+：
+zhcn_windows_10_business_editions
+_version_22h2_updated_nov_2022_
+x64_dvd_
+e310fb02.iso  
+文件大小 
+：5946798080
+字节  
+MD5 
+：FE71AD88E2408708147B2B429F29F3D9  
+SHA1 
+：44C14E4D6E9C64BCDAA41A5E05C9499B799B9EC6  
+CRC32 
+：A9016AFC  
+备注：Windows 10 
+Business Editions 
+Version 22h2
+(
+Updated 
+Nov 2022
+) 
+64位 
+多版本原版镜像  
+下载地址.  
+：<https://download.testip.xyz/Windows>
+/
+zhcn_windows_10_business_editions_
+version_22h2_
+updated_nov_2022_x64_
+dvd_e310fb02.iso  
+|//////////////////////////////////|
+文件名
+cn_windows_10_enterprise
+_ltsc_2019_x64_dvd
+_9c09ff24.iso  
+文件大小
+：
+4478906368 
+字节  
+MD5
+：0D98F58465929EE524CE3AEC0832A58B  
+SHA1
+：24B59706D5EDED392423936C82BA5A83596B50CC  
+CRC32 
+：0C3357E3  
+备注 
+：Windows 10 Enterprise
+LTSC 2019 64
+位 多版本原版镜像 
+(
+{2019.3640}
+)  
+下载地址
+：<https://download.testip.xyz/Windows>
+/
+cn_windows_10_enterprise_
+ltsc_2019_x64_dvd
+_9c09ff24.iso  
+文件名称
+：
+zh-lcn_windows_10_enterprise
+_ltsc_2021_x64_dvd_
+033b7312.iso  
+文件大小：
+5044211712 
+字节  
+MD5  
+：2579B3865C0591EAD3A2B45AF3CABEEE  
+SHA1
+：C19D7DAFBAFEB26C36E31D97C465E87C7A6E8A4C  
 
-文件名称：zh-cn_windows_10_consumer_editions_version_22h2_updated_nov_2022_x64_dvd_8bb31339.iso  
-文件大小：6085199872 字节  
-MD5     ：FB07203178B1183C28E69A1B25D8CD89  
-SHA1    ：8B4AE423C87EEB7E501AB0D55822228EE95C13B2  
-CRC32   ：EF5A7FC6  
-备注：Windows 10 Consumer Editions Version 22h2 (Updated Nov 2022) 64位 多版本原版镜像  
-下载地址：https://download.testip.xyz/Windows/zh-cn_windows_10_consumer_editions_version_22h2_updated_nov_2022_x64_dvd_8bb31339.iso  
-
-文件名称：zh-cn_windows_10_business_editions_version_22h2_updated_nov_2022_x64_dvd_e310fb02.iso  
-文件大小：5946798080 字节  
-MD5     ：FE71AD88E2408708147B2B429F29F3D9  
-SHA1    ：44C14E4D6E9C64BCDAA41A5E05C9499B799B9EC6  
-CRC32   ：A9016AFC  
-备注：Windows 10 Business Editions Version 22h2 (Updated Nov 2022) 64位 多版本原版镜像  
-下载地址：https://download.testip.xyz/Windows/zh-cn_windows_10_business_editions_version_22h2_updated_nov_2022_x64_dvd_e310fb02.iso  
-
-文件名称：cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso  
-文件大小：4478906368 字节  
-MD5     ：0D98F58465929EE524CE3AEC0832A58B  
-SHA1    ：24B59706D5EDED392423936C82BA5A83596B50CC  
-CRC32   ：0C3357E3  
-备注：Windows 10 Enterprise LTSC 2019 64位 多版本原版镜像 (2019.3)  
-下载地址：https://download.testip.xyz/Windows/cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso  
-
-文件名称：zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso  
-文件大小：5044211712 字节  
-MD5     ：2579B3865C0591EAD3A2B45AF3CABEEE  
-SHA1    ：C19D7DAFBAFEB26C36E31D97C465E87C7A6E8A4C  
-CRC32   ：6F4F3ABB  
-备注：Windows 10 Enterprise LTSC 2021 64位 多版本原版镜像  
-下载地址：https://download.testip.xyz/Windows/zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso
-
-文件名称：en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso  
+CRC32 
+：6F4F3ABB  
+备注
+：Windows 10 Enterprise LTSC 
+2021 64
+位 多版本原版镜像  
+下载地址 
+：<https://download.testip.xyz/Windows>
+/zh-cn_windows_10_enterprise_ltsc
+_2021_x64_dvd_033b7312.iso
+文件名称：
+en-us_windows_10_enterprise_ltsc
+_2021_x64_dvd_d289cf96.iso  
 文件大小：4899461120 字节  
-MD5     ：B5A7BE560DBD73619945129E52BE1B5F  
-SHA1    ：2FB2897373C4F71B06F4490943B3D564B0F0FD6D  
-CRC32   ：1D39D1E8  
-备注：Windows 10 Enterprise LTSC 2021 64位 多版本原版镜像，英文  
-下载地址：https://download.testip.xyz/Windows/en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso  
+MD5     
+：B5A7BE560DBD73619945129E52BE1B5F  
+SHA1    
+：2FB2897373C4F71B06F4490943B3D564B0F0FD6D  
+CRC32   
+：1D39D1E8  
+备注
+：
+Windows 10 Enterprise LTSC
+2021 64
+位 多版本原版镜像
 
-文件名称：zh-cn_windows_11_consumer_editions_version_22h2_updated_nov_2022_x64_dvd_2c7e96c3.iso  
-文件大小：5673539584 字节  
-MD5     ：025B268F7E6B5307092EF3EB33AF51CE  
-SHA1    ：D530123B31E1D59B27C738E6ED9A12E406A32BC8  
-CRC32   ：9C352F89  
-备注：Windows 11 Consumer Editions Version 22h2 (Updated Nov 2022) 64位 多版本原版镜像  
-下载地址：https://download.testip.xyz/Windows/zh-cn_windows_11_consumer_editions_version_22h2_updated_nov_2022_x64_dvd_2c7e96c3.iso  
+英文  
+下载地址 
+：<https://download.testip.xyz/Windows>
+/enus_windows_10_enterprise_
+ltsc_2021_x64_dvd
+_d289cf96.iso  
+文件名称
+：zh-cn_windows_11_consumer_editions
+_version_22h2_updated_nov_2022_x64_
+dvd_2c7e96c3.iso  
+文件大小
+：5673539584
+字节  
+MD5     
+：025B268F7E6B5307092EF3EB33AF51CE  
+SHA1    
+：D530123B31E1D59B27C738E6ED9A12E406A32BC8  
+CRC32 
+：9C352F89  
+备注
+：
+Windows 11 Consumer Editions
+Version 22h2 
+(
+Updated Nov
+2022
+)
+64位 多版本原版镜像  
+下载地址
+：<https://download.testip.xyz/Windows>
+/
+zh-cn_windows_11_consumer_editions
+_version_22h2_updated_nov_2022_x64_dvd_2c7e96c3.iso  
 
-文件名称：zh-cn_windows_11_business_editions_version_22h2_updated_nov_2022_x64_dvd_3623b3e1.iso  
-文件大小：5567041536 字节  
-MD5     ：FC9BD45AD2ED4BF3E4C11CD601D98337  
-SHA1    ：89361E8B40264BEC70A0D44D00B2A86FCB224972  
-CRC32   ：16D23E22  
-备注：Windows 11 Business Editions Version 22h2 (Updated Nov 2022) 64位 多版本原版镜像  
-下载地址：https://download.testip.xyz/Windows/zh-cn_windows_11_business_editions_version_22h2_updated_nov_2022_x64_dvd_3623b3e1.iso  
+文件名称
+：zh-cn_windows_11_business_editions
+_version_22h2_updated_nov_2022
+_x64_dvd_3623b3e1.iso  
+文件大小
+：5567041536 
+字节  
+MD5    
+：FC9BD45AD2ED4BF3E4C11CD601D98337  
+SHA1   
+：89361E8B40264BEC70A0D44D00B2A86FCB224972  
+CRC32 
+：16D23E22  
+备注
+：Windows 11 Business Editions Version 22h2 
+(Updated Nov 2022) 
+64位 多版本原版镜像  
+下载地址
+：<https://download.testip.xyz/Windows>
+/zh-cn_windows_11_business_editions
+_version_22h2_updated_nov_2022_x64_dvd_3623b3e1.iso  
 
-文件名称：SW_DVD9_Win_Pro_11_22H2.3_64ARM_ChnSimp_Pro_Ent_EDU_N_MLF_X23-29275.ISO  
-文件大小：5980934144 字节  
-MD5     ：290DEB225CA706B113BB70239FF9321C  
-SHA1    ：BFC56C878CF3CF4AA57A4909A2181492E5AB41C6  
-CRC32   ：88C91CED  
-备注：Windows 11 Version 22h2 ARM 64位 多版本原版镜像  
-下载地址：https://download.testip.xyz/Windows/SW_DVD9_Win_Pro_11_22H2.3_64ARM_ChnSimp_Pro_Ent_EDU_N_MLF_X23-29275.ISO  
+文件名称
+：SW_DVD9_Win_Pro_11_22H2.3
+_64ARM_ChnSimp_Pro
+_Ent_EDU_N_MLF
+_X23-29275.ISO  
+文件大小
+：5980934144 
+字节  
+MD5   
+：290DEB225CA706B113BB70239FF9321C  
+SHA1    
+：BFC56C878CF3CF4AA57A4909A2181492E5AB41C6  
+CRC32 
+：88C91CED  
+备注：Windows 11 Version
+22h2 ARM 64
+位 多版本原版镜像  
+下载地址
+：<https://download.testip.xyz/Windows>
+/SW_DVD9_Win_Pro_11_22H2.3_64ARM_ChnSimp_Pro_Ent_EDU_N_MLF_X23-29275.ISO  
 
-文件名称：cn_windows_server_2008_r2_standard_enterprise_datacenter_and_web_with_sp1_vl_build_x64_dvd_617396.iso  
-文件大小：3368962048 字节  
-MD5     ：38992812F82E594644B2D64CCD86F89C  
-SHA1    ：A92C97C38EF6ED5F827637179052AD218900377A  
-CRC32   ：B8F854DF  
-备注：Windows Server 2008 R2 with SP1 64位 VL多版本原版镜像  
-下载地址：https://download.testip.xyz/Windows/cn_windows_server_2008_r2_standard_enterprise_datacenter_and_web_with_sp1_vl_build_x64_dvd_617396.iso  
+文件名称
+：cn_windows_server_2008_r2_standard
+_enterprise_datacenter
+_and_web_with_sp1
+vl_build_x64_dvd_617396.iso  
+文件大小：3368962048 
+字节  
+MD5     38992812F82E594644B2D64CCD86F89C  
+SHA1   
+：A92C97C38EF6ED5F827637179052AD218900377A  
+CRC32  
+：B8F854DF  
+备
+：
+Windows Server 2008 R2 with
+SP1 6
+位VL多版本原版镜像  
+下载地址
+：<https://download.testip.xyz/Windows>
+/cn_windows_server_2008_r2_standard_enterprise_datacenter_and
+_web_with_sp1_vl_build_x64_dvd
+_617396.iso  
 
-文件名称：cn_windows_server_2012_r2_vl_with_update_x64_dvd_6052729.iso  
+文件名称
+：
+cn_windows_server_2012
+_r2_vl_with_update_x64
+_dvd_6052729.iso  
 文件大小：5545527296 字节  
-MD5     ：A69276D600D9621D3B0AB465E5700B6E  
-SHA1    ：5E88BF62773D4867CF904AF94F66EEA2062E35E4  
-CRC32   ：37F512D6  
-备注：Windows Server 2012 R2 with update 64位 VL原版镜像  
-下载地址：https://download.testip.xyz/Windows/cn_windows_server_2012_r2_vl_with_update_x64_dvd_6052729.iso  
+MD5    
+：A69276D600D9621D3B0AB465E5700B6E  
+SHA1    
+：5E88BF62773D4867CF904AF94F66EEA2062E35E4  
+CRC32   
+：37F512D6  
+备注
+：Windows Server 2012 R2 with update 64位 VL原版镜像  
+下载地址
+：<https://download.testip.xyz/Windows>
+/
+cn_windows_server_2012
+_r2_vl_with_update_x64_dvd_6052729.iso  
 
 文件名称：cn_windows_server_2016_updated_feb_2018_x64_dvd_11636703.iso  
 文件大小：6294265856 字节  
